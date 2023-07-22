@@ -1,11 +1,11 @@
 # Automate AWS Resources with Terraform & Jenkins
 
-# In AWS
+## In AWS
 - create IAM user with Access key-Programmatic access
 - Attach policy - AdministratorAccess >> create >>
 - Save .csv file for Access and Secret Access keys
 
-# In Jenkins
+## In Jenkins
 - Dashboard >> Manage Jenkins >> Manage Credentials >> New credentials >> 
 - Secret text >> scope >> Global >>
 - Secret (copy AWS IAM user Access key then paste )>>
@@ -22,10 +22,10 @@
 - save & apply >> 
 - Build Now 
 
-# Go back into AWS
+## Go back into AWS
 - Check EC2 in console
 
-# SUCCESS, Build Done, EC2 Created !!
+## SUCCESS, Build Done, EC2 Created !!
 
 ## Thank You!!
 
